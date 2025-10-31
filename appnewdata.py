@@ -4,7 +4,7 @@ import numpy as np
 import pickle
 from PIL import Image
 
-# Set page config and UI CSS styling##
+# Set page config and UI CSS styling#
 st.set_page_config(page_title="Complaint Prediction Tool", layout="wide")
 
 st.markdown("""
